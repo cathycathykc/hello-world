@@ -1,0 +1,17 @@
+{
+    "name": "kc-hsu/hello-world",
+    "description": "Hello, world.",
+    "authors": [
+        {
+            "name": "kc hsu",
+            "email": "cathycathykc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "KcHsu\\HelloWorld\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
